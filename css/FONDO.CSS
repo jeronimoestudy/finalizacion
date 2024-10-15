@@ -1,0 +1,10 @@
+body {
+    background: url(fondo\ de\ inicio.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: black;
+    position: absolute;
+}
+
